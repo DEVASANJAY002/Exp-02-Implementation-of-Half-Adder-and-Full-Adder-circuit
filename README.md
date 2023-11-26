@@ -1,4 +1,4 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -36,19 +36,30 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-/*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: DEVASANJAY N
+RegisterNumber:  23013004
+
 Logic symbol & Truthtable
 RTL realization
 
 ### Output:
+F1 : ![Exp3 ha code](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/394fabfc-c681-40a0-a943-2319c8c1da26)
+F2 : ![Exp3 fa code](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/9e5c8a7a-a7f9-4923-a7a1-1d9c4d31a502)
+
 ### RTL
+F1 : ![Exp3 ha RTL diagram](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/ab276a2a-a792-4574-bc79-cfc9d70e1333)
+F2 : ![Exp3 fa RTL diagram](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/22707757-4ac1-4ff5-ba3f-2413f5daf13c)
+
 ### TIMING DIAGRAM
+F1 : ![exp3 ha wave](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/29652805-e5af-4736-8294-f83a1201a0a1)
+F2 : ![exp 3 fa wave](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/c311783b-d7d9-473e-b2c4-7a8e9398423f)
 
 
 ### TRUTH TABLE 
+F1 : ![Exp3 truthtable (ha)](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/76e63869-cf6c-4980-93ed-6eaa950f51e0)
+F2 : ![Exp3 truthtable (fa)](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/984daa01-6f17-45e4-a608-4f4452a59c26)
+
 
 ### Result:
+Thus the given logic functions are implemented using and their operations are verified 
