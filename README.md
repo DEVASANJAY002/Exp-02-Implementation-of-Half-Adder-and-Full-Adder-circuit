@@ -1,4 +1,4 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -36,19 +36,29 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-/*
+
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: DEVASANJAY N
+RegisterNumber:  23013004
+
 Logic symbol & Truthtable
 RTL realization
-
-### Output:
+### Code :
+FHALF ADDER : ![Exp3 fa code](https://github.com/DEVASANJAY002/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/1ccd0eb1-4746-43a3-98ea-7e81689e7cb4)
+FULL ADDER : ![Exp3 ha code](https://github.com/DEVASANJAY002/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/d4edba81-53da-4bc4-a213-3ba740d16c22)
+ 
 ### RTL
+HALD ADDER : ![Exp3 ha RTL diagram](https://github.com/DEVASANJAY002/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/5c2d562d-a327-45f7-9c11-1a76e5df5b65)
+FULL ADDER : ![Exp3 fa RTL diagram](https://github.com/DEVASANJAY002/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/6011a85f-33b0-4043-b07f-41fc9437695c)
+
 ### TIMING DIAGRAM
+HALF ADDER : ![exp3 ha wave](https://github.com/DEVASANJAY002/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/fd4a04a6-63a6-49f5-b498-3f519d57350f)
+FULL ADDER : ![exp 3 fa wave](https://github.com/DEVASANJAY002/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/a5515cda-5a39-4664-a579-fd5acf976f5d)
+
+### TRUTH TABLE : 
+HALF ADDER : ![Exp3 truthtable (ha)](https://github.com/DEVASANJAY002/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/ff6a2e26-5a52-484a-a7ab-62049a2b86db)
+FULL ADDER : ![Exp3 truthtable (fa)](https://github.com/DEVASANJAY002/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152069249/c487498a-3cf7-4d7c-9c24-de7ebf382d1e)
 
 
-### TRUTH TABLE 
-
-### Result:
+### Result: Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog
+programming
